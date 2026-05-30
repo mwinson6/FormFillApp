@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!!I B.Tech  Student Registration Form!!</h1>
+    <h1>Welcome!!I B.Tech (DATA SCIENCE) Student Registration Form!!</h1>
     <p>Please fill in this form for registration!!!</p>
     <hr>
     <br>  

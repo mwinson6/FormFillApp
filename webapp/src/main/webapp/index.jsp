@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>winson Welcomes!!I B.Tech (DATA SCIENCE) Student Registration Form!!</h1>
-    <p>Please fill in this form for registration!!!</p>
+    <p>Kindly fill in this form for registration!!!</p>
     <hr>
     <br>  
 
@@ -20,6 +20,6 @@
   </div>
 
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Do already have an account dear? <a href="#">Sign in</a>.</p>
   </div>
 </form>
